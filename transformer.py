@@ -8,7 +8,7 @@ root.title("TRANSFORMER WINDINGS")
 root.iconbitmap('icon\icon.ico')
 root.geometry("830x395")
 root.configure(background='white')
-# root.resizable(0, 0)
+root.resizable(0, 0)
 # ==================================
 # ============frames in main window============
 f = Frame(root)
