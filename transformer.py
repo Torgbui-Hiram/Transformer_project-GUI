@@ -5,8 +5,7 @@ from tkinter import messagebox
 # =========== main window==========
 root = Tk()
 root.title("TRANSFORMER WINDINGS")
-root.iconbitmap(
-    'C:\\Users\KPATAKPLIBI\Desktop\CODING\Tranformer_Gui\icon\icon.ico')
+root.iconbitmap('icon\icon.ico')
 root.geometry("830x395")
 root.configure(background='white')
 # root.resizable(0, 0)
